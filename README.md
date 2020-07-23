@@ -1,6 +1,7 @@
 ### Hi there 👋, my name is Brett Morrison
 #### Computer Scientist, PGP: 85BA B00E E517 4D13
-![Computer Scientist, PGP: 85BA B00E E517 4D13](https://admzqa.dm.files.1drv.com/y4mGVkGSvVQ-0jkfghe8SDOebz1LzDkHVcc3tLwG_9OGmmyBiLK5aUqhv8xL6xOFwaLpmGPNhC4Fghm30rLmtHYITMRHywnXrQsu2v96kABou5VoaJ3mMf8kAJUnm8HFUt-qmS_DR9lTFbSLkihODyX3a2gbzj7NJfqSEgEaJ2L7l51UiSWFdKwaepzzQwtvrwTlPtgKcQ9rWv8rnGIuxIXpA/code.jpg?psid=1)
+![Computer Scientist, PGP: 85BA B00E E517 4D13]
+(https://live.staticflickr.com/410/19799056499_0f31c96c8e_b.jpg)
 
 Skills: C#, C, C++, TypeScript, Golang, COBOL, SQL, Bash, Windows, Linux, macOS, Ionic, Angular, Bitcoin, Blockchain
 
