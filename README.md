@@ -8,9 +8,9 @@ Skills: C#, C, C++, TypeScript, Golang, COBOL, SQL, Bash, Windows, Linux, macOS,
 
 💬 Ask me about Technology, Photography, Hockey, Cycling
 
-📫 How to reach me: Twitter @morrisonbrett
+📫 How to reach me: Twitter [@morrisonbrett](https://twitter.com/morrisonbrett)
 
-⚡ Fun fact: First computer was an Atari 800.
+⚡ Fun fact: First computer was an Atari 400.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://brettmorrison.com)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/morrisonbrett)
