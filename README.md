@@ -4,9 +4,9 @@
 
 Skills: C#, C, C++, TypeScript, Golang, COBOL, SQL, Bash, Windows, Linux, macOS, Ionic, Angular, Bitcoin, Blockchain
 
-🔭 I’m currently working on Blockchain & TypeScript Ionic Mobile
+🔭 I’m currently working as CEO of TrueVote. It's time we vote on our phones!
 
-💬 Ask me about Technology, Photography, Hockey, Cycling
+💬 Ask me about Technology, Photography, Hockey, Cycling, SIM Racing
 
 📫 How to reach me: Twitter [@morrisonbrett](https://twitter.com/morrisonbrett)
 
