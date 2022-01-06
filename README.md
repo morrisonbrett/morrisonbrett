@@ -31,5 +31,4 @@ Skills: C#, C, C++, TypeScript, Golang, COBOL, SQL, Bash, Windows, Linux, macOS,
 ## 👨‍💻 GitHub Stats
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=morrisonbrett&show_icons=true&theme=merko&count_private=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morrisonbrett&show_icons=true&theme=merko&layout=compact&langs_count=8" />
 <img src="https://github.com/morrisonbrett/morrisonbrett/blob/master/github-metrics.svg" alt="Metrics" width="100%">
