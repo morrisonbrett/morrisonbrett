@@ -28,8 +28,8 @@ Skills: C#, C, C++, TypeScript, Golang, COBOL, SQL, Bash, Windows, Linux, macOS,
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/morrisonbrett)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/3782147/morrisonbrett)
 
-## 👨‍💻 Github Stats
+## 👨‍💻 GitHub Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=morrisonbrett&show_icons=true&theme=dracula" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morrisonbrett&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=morrisonbrett&show_icons=true&theme=merko" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morrisonbrett&theme=merko&layout=compact" />
 <img src="https://github.com/morrisonbrett/morrisonbrett/blob/master/github-metrics.svg" alt="Metrics" width="100%">
