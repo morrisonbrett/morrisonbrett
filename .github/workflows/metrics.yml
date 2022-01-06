@@ -38,7 +38,7 @@ jobs:
 
           # People plugin
           plugin_people: yes
-          plugin_people_limit: 50
+          plugin_people_limit: 100
           plugin_people_shuffle: yes
           plugin_people_size: 28
           plugin_people_types: followers
@@ -46,3 +46,8 @@ jobs:
           # Isocalendar plugin
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+          
+          # Languages plugin
+          plugin_languages: yes
+
+          
