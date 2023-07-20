@@ -17,6 +17,7 @@ Skills: C#, C, C++, TypeScript, Golang, COBOL, SQL, Bash, Windows, Linux, macOS,
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/morrisonbrett/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='youtube' height='40'>](https://youtube.com/morrisonbrett/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/morrisonbrett)
+[<img src='https://github.com/satscoffee/nostr_icons/blob/main/nostr_logo_blk.svg' alt='nostr' height='40'>](https://primal.net/p/npub1u8um5vstlax9p60644zygvhc7w5mkzfyhwyvj453l3j7l9mrf5rspnc3c3)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/morrisonbrett/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/flickr.svg' alt='flickr' height='40'>](https://www.flickr.com/morrisonbrett/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/morrisonbrett)
