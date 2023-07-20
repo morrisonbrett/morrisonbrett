@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # See action.yml for all options
-      - uses: TonyCrane/metrics@v1.0.0 # <- Fork. Original -> lowlighter/metrics@latest
+      - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
@@ -33,11 +33,8 @@ jobs:
 
           # Achievement plugin
           plugin_achievements: yes
-          plugin_achievements_only: >-
-            polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
-            scripter, packager, explorer, infographile, manager
           plugin_achievements_display: compact
-          plugin_achievements_threshold: X
+          plugin_achievements_threshold: B
 
           # People plugin
           plugin_people: yes
@@ -52,5 +49,3 @@ jobs:
           
           # Languages plugin
           plugin_languages: yes
-
-          
