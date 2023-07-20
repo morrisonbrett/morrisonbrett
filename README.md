@@ -2,13 +2,13 @@
 #### Computer Scientist, PGP: 85BA B00E E517 4D13
 ![Computer Scientist, PGP: 85BA B00E E517 4D13](https://live.staticflickr.com/410/19799056499_0f31c96c8e_b.jpg)
 
-Skills: C#, C, C++, TypeScript, Golang, COBOL, SQL, Bash, Windows, Linux, macOS, Ionic, Angular, Bitcoin, Blockchain
+Skills: C#, C, C++, TypeScript, Golang, COBOL, SQL, Bash, Windows, Linux, macOS, Ionic, Angular, React, Bitcoin
 
 🔭 I’m currently working as CEO of [TrueVote](https://truevote.org). It's time we vote on our phones!
 
 💬 Ask me about Technology, Photography, Hockey, Cycling, SIM Racing
 
-📫 How to reach me: Twitter [@morrisonbrett](https://twitter.com/morrisonbrett), NOSTR: npub1u8um5vstlax9p60644zygvhc7w5mkzfyhwyvj453l3j7l9mrf5rspnc3c3
+📫 How to reach me: Twitter [@morrisonbrett](https://twitter.com/morrisonbrett), NOSTR: [@npub1u8um5vstlax9p60644zygvhc7w5mkzfyhwyvj453l3j7l9mrf5rspnc3c3](https://primal.net/p/npub1u8um5vstlax9p60644zygvhc7w5mkzfyhwyvj453l3j7l9mrf5rspnc3c3)
 
 ⚡ Fun fact: First computer was an Atari 400.
 
